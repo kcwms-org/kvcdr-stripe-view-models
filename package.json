@@ -1,0 +1,23 @@
+{
+  "name": "kvcdr-stripe-view-models",
+  "version": "1.0.0",
+  "description": "shared objects",
+  "main": "./dist/src/exports.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcwms-org/kvcdr-stripe-view-models.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kcwms-org/kvcdr-stripe-view-models/issues"
+  },
+  "homepage": "https://github.com/kcwms-org/kvcdr-stripe-view-models#readme",
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}
