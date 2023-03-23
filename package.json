@@ -2,7 +2,7 @@
   "name": "kvcdr-stripe-view-models",
   "version": "1.0.0",
   "description": "shared objects",
-  "main": "./dist/src/exports.js",
+  "main": "./dist/exports.js",
   "scripts": {
     "build": "tsc"
   },
